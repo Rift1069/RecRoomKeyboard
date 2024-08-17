@@ -8,6 +8,8 @@ For this to work you need to download [AutoHotKey 2.0 first.](https://autohotkey
 
 # This is published under the GNU General Public License v3.0 License. If you modify any of this code you HAVE to publish the code online.
 
+Source Code: https://github.com/Rift1069/RecRoomKeyboard/blob/main/RecRoomKeyboard.ahk
+
 If you use this at all in any rooms, videos, or make a diferent version of the code, please credit me. You don't have to, but it's greatly appreciated <3
 Some ways to credit me: 
 
