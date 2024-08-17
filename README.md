@@ -10,8 +10,11 @@ For this to work you need to download [AutoHotKey 2.0 first.](https://autohotkey
 
 If you use this at all in any rooms, videos, or make a diferent version of the code, please credit me. You don't have to, but it's greatly appreciated <3
 Some ways to credit me: 
+
 My Rec Room Profile: https://rec.net/user/namedontask
+
 My Github Profile: https://github.com/Rift1069
+
 My Discord Profile: https://discordapp.com/users/914265807956115527
 
 sometimes this bugs out and a restart of your pc is needed D: (pretty rare to happen though, happened sometimes in development.)
