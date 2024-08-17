@@ -16,13 +16,17 @@ Source Code: https://github.com/Rift1069/RecRoomKeyboard/blob/main/RecRoomKeyboa
 
 ## Credits
 If you use this at all in any rooms, videos, or make a diferent version of the code, please credit me. You don't have to, but it's greatly appreciated <3
-Some ways to credit me: 
+You can credit me by linking:
 
 My Rec Room Profile: https://rec.net/user/namedontask
 
 My Github Profile: https://github.com/Rift1069
 
 My Discord Profile: https://discordapp.com/users/914265807956115527
+
+This Repo: github.com/Rift1069/RecRoomKeyboard
+
+My Youtube: https://youtube.com/@rift.studioss
 
 ## Weird Problems
 sometimes this bugs out and a restart of your pc is needed D: (pretty rare to happen though, happened sometimes in development.)
