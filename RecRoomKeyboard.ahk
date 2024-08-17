@@ -1,5 +1,9 @@
-﻿;Made by @Rift1069 on GitHub. @namedontask on Rec Room.
-; This script is under the GNU General Public License v3.0 License. If you modify this code you must publish it!
+﻿; Made by @Rift1069 on GitHub. @namedontask on Rec Room. @rift.studioss on Youtube.
+
+; Released under the GNU GPLv3 License. https://github.com/Rift1069/RecRoomKeyboard/blob/main/LICENSE
+
+; Repo: https://github.com/Rift1069/RecRoomKeyboard
+
 #Requires AutoHotkey v2.0 
 CoordMode("Pixel", "Screen")
 x := 957 ;<--- Change this value to work with your monitor. Explained in the README.md
