@@ -9,7 +9,7 @@ While using, The Rec Room HUD element needs to be visible on your screen for the
 
 ## Usage 
 While you're free to use this project however you want, this project is licensed under the GNU General Public License v3.0 License.
-Meaning that if you modify the code and use this project in a commercial way, you have to publish the code online.
+Meaning that if you modify the code and use this project in a commercial way, you have to publish the code online. [License Here](https://github.com/Rift1069/RecRoomKeyboard/blob/main/LICENSE)
 
 ## Source
 Source Code: https://github.com/Rift1069/RecRoomKeyboard/blob/main/RecRoomKeyboard.ahk
