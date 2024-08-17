@@ -1,3 +1,4 @@
+Credits To @stuartt on Rec Room for making this first. I instead made it in AutoHotKey and I am pretty sure this is faster.
 # A Working Keyboard In Rec Room! This works by using CV2 to send solid colors to a HUD Element that mean characters. Then, An AutoHotKey Script picks up the color and then presses the key accordingly.
 For this to work you need to download AutoHotKey 2.0 first. (https://autohotkey.com/)
 
