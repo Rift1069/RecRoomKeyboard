@@ -24,7 +24,7 @@ My Github Profile: https://github.com/Rift1069
 
 My Discord Profile: https://discordapp.com/users/914265807956115527
 
-This Repo: github.com/Rift1069/RecRoomKeyboard
+This Repo: https://github.com/Rift1069/RecRoomKeyboard
 
 My Youtube: https://youtube.com/@rift.studioss
 
