@@ -1,3 +1,13 @@
+# Due to Rec Room shutting down on June 1st 2026, this repo is now archived
+(not like it was useful anyway lol)
+
+## "Give it your Rec Room Best" -Coach
+
+
+
+
+
+
 Credits To @stuartt on Rec Room for making this first. I instead made it in AutoHotKey and I am pretty sure this is faster.
 # A Key to color converter that transfers data from rec room using HUD Elements to a script to press keys on your real life computer.
 ## Requirements 
